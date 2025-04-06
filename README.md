@@ -85,7 +85,7 @@ This project is continuously deployed using **Vercel**. Every push to GitHub tri
 - Add downloadable resume with analytics
 
 ---
-# 🧠 Tech Stack & Tools Used
+# 🧠 Tech Stack
 
 Here’s a detailed breakdown of all the technologies, tools, and frameworks used in building this portfolio, grouped into categories with relevant icons and badges:
 
@@ -144,5 +144,9 @@ Let me know if you want a dark/light theme switcher badge set, or more visuals l
 ---
 
 > © 2025 Designed & Coded by Syed Mohammed Hussain | Built with React.js & Tailwind CSS 🤠
+
+# 💻 Tech Stack
+
+
 
 
